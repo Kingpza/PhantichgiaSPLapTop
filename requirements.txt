@@ -1,7 +1,8 @@
 pandas
-selenium
-webdriver-manager
+requests
+beautifulsoup4
 matplotlib
+seaborn
 notebook
 ipykernel
-seaborn
+numpy
